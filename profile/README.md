@@ -1,14 +1,11 @@
-<div style="margin:0; padding:20px; line-height:1.6;">
-  <img src="/Custom Logo.png" alt="Terminauts Logo" width="600" style="margin:0; padding:0; display:block; margin-bottom:20px;" />
 
-  <h1 style="margin:0 0 10px 0; font-size:2em;">Welcome to Terminauts</h1>
+![Terminauts](https://raw.githubusercontent.com/Terminauts/.github/main/assets/custom.png)
+# Welcome to Terminauts
 
-  <p style="margin:0 0 20px 0; font-weight:bold; font-size:1.2em;">Building Tools. Fueling Ideas.</p>
+**Building Tools. Fueling Ideas.**
 
-  <p style="margin:0; font-size:1em;">Terminauts is a collaborative space where developers create practical, impactful software — from system tools and utilities to full-stack applications. We're language-agnostic, goal-driven, and open to all who love building things that work.</p>
-</div>
+Terminauts is a collaborative space where developers create practical, impactful software — from system tools and utilities to full-stack applications. We're language-agnostic, goal-driven, and open to all who love building things that work.
 
----
 
 ## Want to Join the Discussion?
 
