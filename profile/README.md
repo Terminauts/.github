@@ -1,3 +1,3 @@
 <p align="left">
-  <img src="/logo.jpeg" alt="Terminauts Logo" width="600"  />
+  <img src="/log0.png" alt="Terminauts Logo" width="600"  />
 </p>
